@@ -5,7 +5,7 @@ Performance Analysis (IN4-341, Q2 2024-2025)
 
 For any general question about the course, use GitHub issues. Before posting, please make sure your question has not been previously answered. Only in case of private question, send us an email. 
 
-**Prerequisites**: basic probability and linear algebra. See "Preliminary Content" on Brightspace.
+**Prerequisites**: basic probability and linear algebra. See "Preliminary Content" on Brightspace or [these notes](https://github.com/cdebacco/PA_2024-25/blob/main/L0/L0_notes.pdf).
 
 ### Program
 
